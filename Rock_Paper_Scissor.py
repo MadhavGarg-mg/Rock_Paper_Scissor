@@ -31,6 +31,8 @@ scissors = '''
           (____)
     ---.__(___)
     '''
+# https://www.asciiart.eu/people/body-parts/hand-gestures
+# Rock, paper, scissors by Veronica Karlsson
 
 while True:
     games_played += 1
